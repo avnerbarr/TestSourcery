@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AutomaticSettings",
+        "repositoryURL": "git@github.com:avnerbarr/AutomaticSettings.git",
+        "state": {
+          "branch": "main",
+          "revision": "1acc994349c9ff497ef70a8a0b8bdfdfd7d2b01d",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
